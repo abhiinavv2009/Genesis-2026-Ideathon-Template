@@ -6,8 +6,8 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   |    NARENDRAN S             CB.AI.U4AID26024         MALE            |  AID-A               |                                 |  
+|    Member 2     |    ABHINAV N                CB.AI.U4AID26051     |  MALE               AID-A      |                 |                                 |  
+|    Member 3     |    MIDHUN R                CB.AI.U4AID26020    |    MALE               AID-A     |                 |                                 |  
+|    Member 4     |    ANU SRI M               CB.AI.U4AID26001      |  FEMALE             AID-A         |                 |                                 |   
 
