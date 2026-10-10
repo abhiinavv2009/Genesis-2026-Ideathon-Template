@@ -1,13 +1,20 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+GEN26-A0H-I184
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+Neural Coders
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   |   Narendran S                   cb.ai.u4aid26024   |      MALE                 AID|                 |                                 |  
+|    Member 2     |   Abhinav N                     cb.ai.u4aid26051          MALE          |      AID          |                                 |  
+|    Member 3     |   Midhun R                      cb.ai.u4aid26020          MALE             |   AID            |                                 |  
+|    Member 4     |   Anu Sri M                    |cb.ai.u4aid26001          FEMALE             | AID             |                                 | 
 
+
+|         Role    |        HOSTEL DEATILS|   
+|:---------------:|:------------------------|:
+|   Team Leader   |   Dayscholar            |      
+|    Member 2     |   Hostler[kashyapa bhavanam]              |      
+|    Member 3     |   Dayscholar                 |     
+|    Member 4     |   Dayscholar                 |   
